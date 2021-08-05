@@ -34,4 +34,6 @@ For the project we will use several data contained in the csv file. We will dele
 ## Step 4 - Data Transformation
 
 
+(This project was developed through a course on the Digital Inovation One course platform.)
+
 
