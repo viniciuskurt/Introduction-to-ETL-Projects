@@ -21,10 +21,17 @@ Among the information available are data on the aircraft involved, fatalities, l
 
 --------------------------------
 
-# Etapa 1 - Extração do Dados
+## <center>This project is divided into 4 steps:</center>
 
-Para o projeto não utilizaremos vários dados contidos no arquivo csv. Excluíremos algumas colunas no arquivo **ocorrencia_2010_2020** e criaremos um novo arquivo chamado **ocorrencia_2010_2020_v2** .
+## Step 1 - Data Extraction
 
-# Etapa 2 - Validação dos Dados
+For the project we will use several data contained in the csv file. We will delete some columns in the **ocorrencia_2010_2020** file and create a new file called **ocorrencia_2010_2020_v2** .
 
-# Etapa 3 - Limpeza dos Dados
+## Step 2 - Data Validation
+
+## Step 3 - Data Cleaning
+
+## Step 4 - Data Transformation
+
+
+
